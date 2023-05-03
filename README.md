@@ -18,11 +18,11 @@ To get started, follow the following steps:
 
 The default control scheme uses the keyboard and mouse. 
 Players use the mouse to move, aim, and fire, and the keyboard to use skills, similar to the control scheme in League of Legends.
-A. 'Q' 'W' 'E' 'R' for using skills
-B. Left mouse button to move character
-C. Right mouse button to pick up dropped items and interact with objects in the environment
-D. 'I' to open inventory and use potions, magic elements
-E. 'Space' to exit from the workbench
+- 'Q' 'W' 'E' 'R' for using skills
+- Left mouse button to move character
+- Right mouse button to pick up dropped items and interact with objects in the environment
+- 'I' to open inventory and use potions, magic elements
+- 'Space' to exit from the workbench
 
 ## Gameplay
 
