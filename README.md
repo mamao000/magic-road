@@ -25,7 +25,12 @@ D. 'I' to open inventory and use potions, magic elements
 E. 'Space' to exit from the workbench
 
 ## Gameplay
+
 Players can adventure in the map and use magic skills to inflict damage on monsters. 
 By picking up magic gems dropped by defeated monsters, players can convert them into magic potions in their inventory, and then use the workbench to craft unique skills.
 The magic potions are divided into black, red, yellow, blue, and green, and all except for green have attack power corresponding to their attributes. 
 After crafting skills, players can use them directly in battle, while green potions can be used to restore health directly from the inventory.
+
+## Promotional Video Link
+
+https://www.youtube.com/watch?v=hpGA3NQ5G4E
